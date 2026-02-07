@@ -120,7 +120,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/80">
-            <p>&copy; 2025 DLUXX DETAILING. All rights reserved.</p>
+            <p>&copy; 2026 DLUXX DETAILING. All rights reserved.</p>
             <div className="flex items-center gap-4">
               <a href="/about" className="hover:text-accent transition-colors">
                 About
