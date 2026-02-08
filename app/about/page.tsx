@@ -16,11 +16,10 @@ export default function AboutPage() {
           </Link>
           <div className="text-center mb-16">
             <h1 className="text-4xl sm:text-5xl font-bold mb-4" style={{ color: "#ff8c00" }}>
-              About the Founder
+              About DLUXX Detailing
             </h1>
             <p className="text-lg text-white max-w-2xl mx-auto">
-              Meet the visionary behind{" "}
-              <img src="/dluxx-logo.png" alt="DLUXX Detailing" className="inline h-20 w-auto mx-3" />
+              Excellence in automotive care, delivered with precision and integrity
             </p>
           </div>
 
@@ -31,29 +30,31 @@ export default function AboutPage() {
             <div className="max-w-4xl mx-auto">
               <div className="text-white space-y-6 leading-relaxed">
                 <p>
-                  I&apos;m the founder of DLUXX Detailing — a business I built from the ground up at just 20
-                  years old. I started DLUXX with one clear mission: to refuse to be average. I&apos;ve always
-                  believed that success comes from mindset, consistency, and the willingness to do what most
-                  people won&apos;t.
+                  DLUXX Detailing represents the highest standard in mobile automotive care. Founded on principles
+                  of excellence, reliability, and unwavering commitment to customer satisfaction, we have
+                  established ourselves as a trusted partner for vehicle owners throughout San Antonio and
+                  surrounding communities.
                 </p>
 
                 <p>
-                  When I created DLUXX, I wanted more than just a car wash — I wanted to build something that
-                  represented discipline, ownership, and pride in quality. Every job is a reflection of that
-                  mindset. From the moment we arrive at a client&apos;s driveway to the final shine, our focus is
-                  simple: exceed expectations and make people say, &quot;Wow.&quot;
+                  Our organization is built on a foundation of industry-leading practices, cutting-edge
+                  techniques, and premium products. Every service we deliver reflects our core values: precision,
+                  integrity, and an uncompromising dedication to quality. From executive vehicles to family
+                  automobiles, we treat each client engagement with the same level of professionalism and
+                  attention to detail.
                 </p>
 
                 <p>
-                  This company is my vision of what hard work and purpose look like. DLUXX isn&apos;t about
-                  shortcuts or easy wins — it&apos;s about doing things the right way, treating every vehicle with
-                  care, and treating every client like family.
+                  At DLUXX Detailing, we believe that exceptional service begins with exceptional standards.
+                  Our team operates with a customer-centric approach, ensuring that every interaction exceeds
+                  expectations. We are fully licensed and insured, and our commitment to continuous improvement
+                  drives us to deliver results that speak for themselves.
                 </p>
 
                 <p>
-                  I built this business with the same drive I live by: never settle, never stop improving, and
-                  always deliver excellence. DLUXX Detailing is just the beginning — and I&apos;m proud to bring
-                  this passion and service to the people of San Antonio.
+                  As we continue to expand our presence across the greater San Antonio region, we remain
+                  focused on our mission: to provide world-class automotive detailing services that set the
+                  industry benchmark for excellence, reliability, and customer satisfaction.
                 </p>
               </div>
 
@@ -61,7 +62,7 @@ export default function AboutPage() {
                 <p className="text-white text-right italic">
                   — <strong style={{ color: "#ff8c00" }}>Kester Rayne</strong>
                   <br />
-                  <span className="text-gray-300">Founder & Owner, DLUXX Detailing</span>
+                  <span className="text-gray-300">Founder & CEO, DLUXX Detailing</span>
                 </p>
               </div>
             </div>
