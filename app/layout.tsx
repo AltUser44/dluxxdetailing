@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   description:
     "Professional mobile car detailing services in San Antonio. We bring premium automotive care to your driveway.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.png",
+  },
 }
 
 export default function RootLayout({
