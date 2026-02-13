@@ -3,7 +3,7 @@
 import { Card } from "@/components/ui/card"
 
 // Update this URL with your Google Business page link
-const GOOGLE_BUSINESS_URL = "https://www.google.com/search?q=DLUXX+Detailing+San+Antonio"
+const GOOGLE_BUSINESS_URL = "https://g.page/r/CT2JtyduiA_uEBM/review"
 
 const testimonials = [
   {
