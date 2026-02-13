@@ -12,7 +12,11 @@ export const metadata: Metadata = {
     "Professional mobile car detailing services in San Antonio. We bring premium automotive care to your driveway.",
   generator: "v0.app",
   icons: {
-    icon: "/favicon.png",
+    icon: [
+      { url: "/favicon.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon.png", sizes: "48x48", type: "image/png" },
+    ],
+    apple: "/favicon.png",
   },
 }
 
