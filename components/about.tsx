@@ -34,7 +34,7 @@ export default function About() {
             
             <div className="mt-8 pt-6 border-t border-gray-600">
               <p className="text-white text-right italic">
-                — <strong style={{color: '#ff8c00'}}>Kester Rayne</strong><br />
+                — <strong style={{color: '#ff8c00'}}>Kester Nkese</strong><br />
                 <span className="text-gray-300">Founder & Owner, DLUXX Detailing</span>
               </p>
             </div>
