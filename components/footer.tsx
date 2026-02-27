@@ -99,14 +99,11 @@ export default function Footer() {
               >
                 <img src="/facebook.png" alt="Facebook" className="w-6 h-6 object-contain" />
               </a>
-              <a
-                href="https://www.tiktok.com/@raynemaxwell22?_r=1&_t=ZP-93jauyGidDy"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-primary-foreground/10 rounded-lg flex items-center justify-center hover:bg-accent transition-all overflow-hidden"
+              <div
+                className="w-10 h-10 bg-primary-foreground/10 rounded-lg flex items-center justify-center transition-all overflow-hidden cursor-default"
               >
                 <img src="/tiktok.png" alt="TikTok" className="w-6 h-6 object-contain" />
-              </a>
+              </div>
             </div>
           </div>
         </div>
